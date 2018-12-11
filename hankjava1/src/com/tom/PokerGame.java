@@ -13,7 +13,7 @@ public class PokerGame {
 	    Card[] cards =new Card[52];
 	    
 	    
-		Poker poker = new Poker();
+		Poker2 poker = new Poker2();
 		poker.print();
 		 
 		

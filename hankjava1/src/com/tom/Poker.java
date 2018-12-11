@@ -4,10 +4,7 @@ public class Poker {
    public Poker(){
 	 int cards[] = new int [52];
 	 char y ;
-   } 	  
-	 
-	  
-	 
+   } 	  	 
      public void print(){
    
     	 for(int i =0;i<52;i++){
@@ -28,7 +25,6 @@ public class Poker {
     	 			      break;
     	 			  }   	
     		 System.out.print(i%13+1+""+y+" ");	  
-    	 
     	 if(i%13==12){
     	 System.out.println();
     	 
